@@ -2,7 +2,7 @@
 
 ## Overview
 
-MiniRT is a minimalistic ray tracing engine built as part of the 42 Paris curriculum. It renders 3D scenes using the ray tracing technique, allowing for realistic lighting and shading effects. This project aims to help students develop their skills in programming, mathematics, and algorithmics, particularly in computer graphics.
+MiniRT is a minimalistic ray tracing engine built as part of the 42 Paris curriculum. It renders 3D scenes using the ray tracing technique, allowing for lighting and shadows effects. This project aims to help students develop their skills in programming, mathematics, and algorithmics, particularly in computer graphics.
 
 The code is not provided as it's the rule of 42Seoul.
 
